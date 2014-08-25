@@ -1,0 +1,15 @@
+.dropdown-select button{
+    width: 220px;
+    position: relative;
+}
+
+.dropdown-select .dropdown-menu{
+    width: 220px;
+}
+.dropdown-select .btn .caret{
+    margin-top: -2px;
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    vertical-align: middle;
+}
